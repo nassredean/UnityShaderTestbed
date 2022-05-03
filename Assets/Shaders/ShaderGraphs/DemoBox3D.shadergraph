@@ -251,7 +251,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_rotYRadians",
     "m_StageCapability": 3,
-    "m_Value": 7.940000057220459,
+    "m_Value": 1.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -374,9 +374,9 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -1039.0,
-            "y": -847.0,
-            "width": 208.0,
-            "height": 349.99993896484377
+            "y": -841.0,
+            "width": 208.0001220703125,
+            "height": 350.0
         }
     },
     "m_Slots": [
